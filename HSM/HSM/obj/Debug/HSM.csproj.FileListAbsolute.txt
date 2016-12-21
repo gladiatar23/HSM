@@ -1,0 +1,11 @@
+c:\users\user\documents\visual studio 2015\Projects\HSM\HSM\bin\Debug\HSM.exe.config
+c:\users\user\documents\visual studio 2015\Projects\HSM\HSM\bin\Debug\HSM.exe
+c:\users\user\documents\visual studio 2015\Projects\HSM\HSM\bin\Debug\HSM.pdb
+c:\users\user\documents\visual studio 2015\Projects\HSM\HSM\bin\Debug\MetroFramework.dll
+c:\users\user\documents\visual studio 2015\Projects\HSM\HSM\bin\Debug\MetroFramework.Fonts.dll
+c:\users\user\documents\visual studio 2015\Projects\HSM\HSM\obj\Debug\HSM.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\HSM\HSM\obj\Debug\HSM.Properties.Resources.resources
+c:\users\user\documents\visual studio 2015\Projects\HSM\HSM\obj\Debug\HSM.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2015\Projects\HSM\HSM\obj\Debug\HSM.exe
+c:\users\user\documents\visual studio 2015\Projects\HSM\HSM\obj\Debug\HSM.pdb
+C:\Users\USER\documents\visual studio 2015\Projects\HSM\HSM\obj\Debug\HSM.Login_Page.resources
